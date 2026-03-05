@@ -1,2 +1,2 @@
 # Sec-script
-Security Audit Sccript
+Security Audit Script
